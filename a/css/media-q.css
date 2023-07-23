@@ -1,0 +1,51 @@
+
+/**Big to small**/
+@media only screen and (max-width:1200px)
+{
+.H-B{
+	position: absolute;
+	top: 50%;
+	left: 23%;
+	transform: translate(40%,-50%);
+	text-align: left;
+}
+
+.about-para{
+	margin-bottom: 20px;
+}
+
+.s-heading,.t-heading,.pkgs-heading,.cont-heading{
+margin-top: 90px;
+}
+}
+
+
+/**small to large**/
+@media only screen and (max-width:1023px)
+{
+.H-B{
+	position: absolute;
+	top: 50%;
+	left: 23%;
+	transform: translate(40%,-50%);
+	text-align: left;
+}
+}
+
+/**tablet phone**/
+@media only screen and (max-width:767px)
+{
+.H-B{
+	position: absolute;
+	top: 50%;
+	left: 23%;
+	transform: translate(40%,-50%);
+	text-align: left;
+}
+}
+
+/**mobile**/
+@media only screen and (max-width:479px)
+{
+
+}
